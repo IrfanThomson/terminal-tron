@@ -1,6 +1,6 @@
 # terminal-tron
 
-![tron game picture](https://ibb.co/jkB86Sk)
+![tron game picture](https://i.ibb.co/chMygjh/image-1.png)
 
 Simple Tron game played in the terminal.
 
